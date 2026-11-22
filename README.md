@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Priyanshu Pawar – Software Engineer Portfolio
 
 React + TypeScript + Vite + Tailwind CSS + Framer Motion + React Router.
@@ -23,3 +24,7 @@ Import the repo; framework preset Vite; build `npm run build`; output `dist`. `v
 
 ## Visual design
 The portfolio uses a dark navy visual system with cyan/blue accents, a Java code-editor hero, responsive glass-effect surfaces, motion-based section reveals, interactive project cards, and mobile navigation. The project data, case-study routes, architecture diagrams, contact form behaviour, and existing content model are retained.
+=======
+# psp-portfolio
+Personal Portfolio Website
+>>>>>>> 18ec0c29730fb7bdb1569e46984ac45777e9f7b3
